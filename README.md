@@ -5,13 +5,13 @@ This is a sample application, a barebones Django app, which can easily be deploy
 
 This application supports the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article - check it out.
 
-## REQUIREMENTS
+## Requirements
 
 Make sure your development environment is ready for the capstone project
 1. Visual Studio Code
 2. The latest version of python
 
-## INSTALLATION
+## Installation
 
 You can download the file by using git clone, or you can access on Heroku: https://lawrencepjapp.herokuapp.com/
 
