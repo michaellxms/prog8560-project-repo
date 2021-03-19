@@ -13,14 +13,14 @@ Make sure your development environment is ready for the capstone project
 
 ## Installation
 
-You can download the file by using git clone, or you can access on Heroku: https://lawrencepjapp.herokuapp.com/
+You can download the file or you can access on Heroku: https://lawrencepjapp.herokuapp.com/
 
 ## User instructions
 
 Make sure you have Python 3.9 [installed locally](https://docs.python-guide.org/starting/installation/). To push to Heroku, you'll need to install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli), as well as [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup).
 
 ```sh
-$ git clone https://github.com/heroku/python-getting-started.git
+$ git clone https://github.com/michaellxms/prog8560-project-repo.git
 $ cd python-getting-started
 
 $ python3 -m venv getting-started
