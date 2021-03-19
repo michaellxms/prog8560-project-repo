@@ -5,6 +5,19 @@ This is a sample application, a barebones Django app, which can easily be deploy
 
 This application supports the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article - check it out.
 
+REQUIREMENTS
+
+-------------
+
+Make sure your development environment is ready for the capstone project
+1. Visual Studio Code
+2. The latest version of python
+
+INSTALLATION
+
+------------
+You can download the file by using git clone, or you can access on Heroku: https://lawrencepjapp.herokuapp.com/
+
 ## User instructions
 
 Make sure you have Python 3.9 [installed locally](https://docs.python-guide.org/starting/installation/). To push to Heroku, you'll need to install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli), as well as [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup).
